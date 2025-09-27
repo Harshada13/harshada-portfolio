@@ -3,7 +3,7 @@
 🔧 Backend Engineer @ Barclays | 🎓 Data Science Grad Student (in progress)  
 🎓 M.S. in Computer Science (Pace University)  
 💡 Passionate about building secure, scalable systems and uncovering insights through data  
-📫 harshchaudhari1303@gmail.com | [LinkedIn](https://linkedin.com/in/harshada) | [GitHub](https://github.com/Harshada)
+📫 harshchaudhari1303@gmail.com | [LinkedIn](https://www.linkedin.com/in/harshada13/) | [GitHub](https://github.com/Harshada13)
 
 ---
 
@@ -32,7 +32,7 @@ I enjoy mentoring, collaborating across teams, and blending backend engineering 
 Secure REST API for tracking daily expenses with authenticated user access.  
 - JWT-based authentication for secure endpoints  
 - Optimized PostgreSQL queries for fast data retrieval  
-🔗 [View Repo](https://github.com/Harshada/expense-tracker)
+🔗 [View Repo](https://github.com/Harshada13/Expense-Tracking-API)
 
 ---
 
@@ -41,7 +41,7 @@ Secure REST API for tracking daily expenses with authenticated user access.
 Web-based compiler supporting 5+ languages, deployed on AWS.  
 - Automated cloud service management with Boto3  
 - Collaborative planning and delivery via Jira  
-🔗 [View Repo](https://github.com/Harshada/online-compiler)
+🔗 [View Repo](https://github.com/Harshada13/OnlineCompilerUsingCloudComputing)
 
 ---
 
@@ -50,7 +50,7 @@ Web-based compiler supporting 5+ languages, deployed on AWS.
 Binary classification model to detect “bad buys” in car auctions.  
 - Tackled class imbalance using SMOTE and stratified sampling  
 - Achieved an F1-score of 0.87 with improved recall  
-🔗 [View Repo](https://github.com/Harshada/car-classification)
+🔗 [View Repo](https://github.com/Harshada13/Data-Driven-Classification-of-Used-Cars-in-Auction)
 
 ---
 
