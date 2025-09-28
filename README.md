@@ -69,7 +69,7 @@ Binary classification model to detect “bad buys” in car auctions.
 ## **What I'm Working On Now**
 
 - Advancing through my Data Science M.S. program with coursework in statistical computing, pattern recognition, and distributed systems  
-- Deepening my Java expertise—collections, concurrency, and JVM internals to strengthen backend architecture skills  
+- Deepening my Java expertise in collections, concurrency, and JVM internals to strengthen backend architecture skills  
 
 ---
 
